@@ -1,0 +1,9 @@
+.AppBar {
+    background-color: #000000;
+  }
+
+.IconButton_Menu{
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
